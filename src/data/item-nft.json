@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "marketplace1.png",
+    "title": "Adenuga Michael",
+    "username": "santosox",
+    "price": 3
+  },
+  {
+    "id": 2,
+    "image": "marketplace2.png",
+    "title": "Damini Ogulu",
+    "username": "punix",
+    "price": 2.34
+  },
+  {
+    "id": 3,
+    "image": "marketplace3.png",
+    "title": "Emeka Johnson",
+    "username": "inoino",
+    "price": 10.5
+  },
+  {
+    "id": 4,
+    "image": "marketplace4.png",
+    "title": "Dauda Damiz",
+    "username": "alexio",
+    "price": 20.5
+  },
+  {
+    "id": 5,
+    "image": "marketplace5.png",
+    "title": "Adzest.Tech",
+    "username": "zaheer",
+    "price": 7
+  },
+  {
+    "id": 6,
+    "image": "marketplace6.png",
+    "title": "Joshua James",
+    "username": "kunai",
+    "price": 80
+  },
+  {
+    "id": 7,
+    "image": "marketplace7.png",
+    "title": "Mojeed Agbawo",
+    "username": "kunai",
+    "price": 80
+  },
+  {
+    "id": 8,
+    "image": "marketplace8.png",
+    "title": "Esther Caroline",
+    "username": "kunai",
+    "price": 80
+  }
+]
